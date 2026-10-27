@@ -74,7 +74,7 @@ Identified weakness: ChatGPT lacks the capability to perform tasks outside of it
 Why this matters: While ChatGPT can recommend the best flights, it cannot book flights for users as the AI has limited access to the booking platform. Furthermore, buying flight tickets requires sensitive details such as password information and payment credentials.
 
 Evidence:
-![alt text](<Screenshot 2026-10-27 090212.png>)
+![image alt](https://github.com/thoughtdenham2005/ai-engineering-jomlahAI/blob/659e7a3c4ea11ba00f721ca5f5a5988c18cbc96b/Screenshot%202026-10-27%20090212.png)
 
 Evaluation: ChatGPT excels well in performing tasks that are within its system, but lacks the ability to access websites that do not support it. Moreover, ChatGPT cannot directly book flight tickets for users as it requires the AI to access sensitive and confidential data.
 
