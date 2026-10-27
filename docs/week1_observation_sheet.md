@@ -48,7 +48,7 @@ Verification: Compare the response with an authoritative geographical or Malaysi
 Why this is positive: A correct and direct answer demonstrates the system's usefulness for straightforward factual questions.
 
 Evidence:
-![alt text](<Screenshot 2026-10-27 084137.png>)
+![image alt](https://github.com/thoughtdenham2005/ai-engineering-jomlahAI/blob/f51867d160305d65d0ecc02bb5b100dfcf5bb783/Screenshot%202026-10-27%20084137.png)
 
 Evaluation: ChatGPT response was correct and straightforward.
 
